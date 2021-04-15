@@ -1,4 +1,4 @@
-Three Observable Trends in Heroes of Pymoli
+Three Trends in Heroes of Pymoli
 
 1.Male has the greatest percentage among all players.
 3.Male has the fewest average purchase price among all genders.
